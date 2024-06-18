@@ -1,7 +1,18 @@
 <img src="welcome.png">
 <h3 align=center>Hello! I'm Pau.</h3>
-<p align=center>I am passionate about creating a meaningful impact through data.<br>I am determined to help address the most pressing concerns in society using data.<br>This hub tells you some of the solutions I have developed to tackle societal challenges.</p><br>
-<!-- <hr> -->
+<p align=center>I am passionate about creating a meaningful impact through data.<br>I am determined to help address the most pressing concerns in society using data.<br>This hub tells you some of the solutions I have developed to tackle societal challenges.</p>
+<p align=center>Let's chat!<br>
+<a href="https://www.linkedin.com/in/paulamartinez01/" align=center>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=paulamartinezj01@gmail.com&su=Subject&body=Body+Text">
+ <img src="https://img.shields.io/badge/GMail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://api.whatsapp.com/send?phone=639953054505">
+ <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+</p>
+<hr>
 
 <h1>TOOL KIT&nbsp;&nbsp;🛠️&nbsp;</h1>
 
@@ -83,3 +94,15 @@
  <li>&nbsp;🎸&nbsp;I write songs! My main instrument is the guitar, but one of my goals is to learn how to play the piano and write my own pieces&nbsp;🎹</li>
  <li>&nbsp;🎭&nbsp;I dabbled a bit in the performing arts when I was a kid until high school. I've directed and written a play as well, and participated in several oratorical competitions. Ironically, I still experience stage fright during public presentations&nbsp;🫠</li>
 </ol>
+<hr>
+<p align=center>Let's chat!<br>
+<a href="https://www.linkedin.com/in/paulamartinez01/" align=center>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=paulamartinezj01@gmail.com&su=Subject&body=Body+Text">
+ <img src="https://img.shields.io/badge/GMail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://api.whatsapp.com/send?phone=639953054505">
+ <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+</p>
