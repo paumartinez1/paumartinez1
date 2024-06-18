@@ -31,6 +31,7 @@
 
 <br>
 <h1>PROJECTS&nbsp;⚡️&nbsp;</h1>
+<p>Click the triangles &#9658; to expand or collapse a section.</p>
 <details>
  <summary>
    <img src="https://img.shields.io/badge/Data%20Mining%20And%20Wrangling-002B59?style=for-the-badge&logo=pandas">
