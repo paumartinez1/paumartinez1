@@ -23,7 +23,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-3A3A3A?style=flat&logo=pandas) ![Numpy](https://img.shields.io/badge/Numpy-3A3A3A?style=flat&logo=numpy) ![TensorFlow](https://img.shields.io/badge/Tensorflow-3A3A3A?style=flat&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-3A3A3A?style=flat&logo=keras) ![PyTorch](https://img.shields.io/badge/PyTorch-3A3A3A?style=flat&logo=pytorch) 
 
 #### Visualization Tools
-![Plotly](https://img.shields.io/badge/Plotly-3A3A3A?style=flat&logo=plotly) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3A3A3A?style=flat) ![Power BI](https://img.shields.io/badge/Power%20BI-3A3A3A?style=flat&logo=powerbi)
+![Plotly](https://img.shields.io/badge/Plotly-3A3A3A?style=flat&logo=plotly) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3A3A3A?style=flat) ![Power BI](https://img.shields.io/badge/Tableau-3A3A3A?style=flat&logo=tableau)
 
 #### Big Data and Cloud Computing
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3A3A3A?style=flat&logo=apachespark) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-3A3A3A?style=flat&logo=amazonwebservices) ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-3A3A3A?style=flat&logo=amazonec2) 
