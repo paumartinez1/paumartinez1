@@ -1,6 +1,6 @@
 <img src="welcome.png">
 <h3 align=center>Hello! I'm Pau.</h3>
-<p align=center>I'm a data scientist leader who is passionate about creating a meaningful impact through data. Let's chat!</p>
+<p align=center>I'm a data science leader who is passionate about creating a meaningful impact through data. Let's chat!</p>
 <p align=center>
 <a href="https://www.linkedin.com/in/paulamartinez01/" align=center>
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
